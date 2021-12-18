@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+Meu nome é Matheus Vidal, e eu estou estudando Análise e Desenvolvimento de Sistemas, aprendendo Desenvolvimento Web.
+Estou estudando Ruby on Rails atualmente meu objeitvo é virar um Desenvolvedor Web Full-stack!
+<br><br>
 
-<!--
-**Ryuukhi/Ryuukhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Entre em contato comigo 🤜🤛
+  <a href="https://www.linkedin.com/in/matheusvcubas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
+  
+ ## Minhas ferramentas!
+ <div style="display: flex">
+ <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50"/>  
+ <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50"/>  
+ <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="43"/>
+ <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ruby/ruby-plain-wordmark.svg" alt="JavaScript" height="40"/>
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rails/rails-plain-wordmark.svg" alt="JavaScript" height="40"/>
+ <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" /> 
+ </div>
+ <br><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Ryuukhi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryuukhi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuukhi&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
