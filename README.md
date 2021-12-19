@@ -20,7 +20,7 @@ Estou estudando Ruby on Rails atualmente meu objetivo é me tornar um Desenvolve
 
 <div align="center">
   <a href="https://github.com/Ryuukhi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryuukhi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuukhi&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscubas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscubas&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
