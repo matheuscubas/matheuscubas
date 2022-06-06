@@ -13,7 +13,7 @@ Estou estudando C# e e ecossistema .Net atualmente meu objetivo é me tornar um 
  <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="43"/>
  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="CSharp" height="43"/>
  <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="Dotnet" height="40"/>
- <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SqlServer" height="40"/>
+ <img style="margin: 10px" src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="SqlServer" height="40"/>
  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ruby/ruby-plain-wordmark.svg" alt="JavaScript" height="40"/>
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rails/rails-plain-wordmark.svg" alt="JavaScript" height="40"/>
  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" /> 
