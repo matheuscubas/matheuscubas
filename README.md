@@ -1,4 +1,4 @@
-## Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+## Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" height="36px">
 Meu nome é Matheus Vidal, e eu estou estudando Análise e Desenvolvimento de Sistemas, aprendendo Desenvolvimento Web.
 Estou estudando Ruby on Rails atualmente meu objetivo é me tornar um Desenvolvedor Web Full-stack! :rocket::rocket:
 <br><br>
