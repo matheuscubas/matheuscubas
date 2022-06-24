@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" height="36px">
-Meu nome é Matheus Vidal, e eu estou estudando Análise e Desenvolvimento de Sistemas, aprendendo Desenvolvimento Web.
-Estou estudando C# e e ecossistema .Net atualmente meu objetivo é me tornar um Desenvolvedor Web Full-stack! :rocket::rocket:
+Olá me chamo Matheus Vidal, e eu sou um estudante Análise e Desenvolvimento de Sistemas, me focando principalmente em Desenvolvimento Web.
+Estou estudando C# e e ecossistema .Net focado no back-end mas meu objetivo é me tornar full-stack! :rocket::rocket:
 <br><br>
 
 ## Entre em contato comigo 🤜🤛
